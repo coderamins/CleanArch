@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {}
+    "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+    "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectUniqueName": "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
         "projectName": "CleanArch.Domain",
-        "projectPath": "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
-        "packagesPath": "C:\\Users\\1007297\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Domain\\obj\\",
+        "projectPath": "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "packagesPath": "C:\\Users\\RaminS\\.nuget\\packages\\",
+        "outputPath": "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\1007297\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RaminS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,10 +25,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,24 +57,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
+    "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "projectUniqueName": "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
         "projectName": "CleanArch.Infra.Data",
-        "projectPath": "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\1007297\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\obj\\",
+        "projectPath": "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\RaminS\\.nuget\\packages\\",
+        "outputPath": "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\1007297\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RaminS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,13 +82,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "C:\\Users\\1007297\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "I:\\Developing\\DotNetCoreApp\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -99,6 +102,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -132,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
